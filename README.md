@@ -8,7 +8,7 @@ NimbusAI is a Kiro-powered AI Cloud Architect that turns natural language ideas 
 ##  Demo Video
 [Watch the NimbusAI Demo Recording](video/demo.webm)
 
-##  Competition Edge
+## Edge
 NimbusAI stands out with its **Design Engineering** approach and **Agentic Workflows**:
 - **BYO-API Integration**: Bring your own AWS keys and external service credentials.
 - **Infinite Design Canvas**: Powered by Next.js + React Flow.
