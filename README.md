@@ -1,6 +1,6 @@
 # NimbusAI - Your AI Cloud Architect
 
-NimbusAI is a Kiro-powered AI Cloud Architect that turns plain English ideas into visualized, auditable, and deployable AWS infrastructure in seconds.
+NimbusAI is a Kiro-powered AI Cloud Architect that turns natural language ideas into visualized, auditable, and deployable AWS infrastructure in seconds.
 
 ![NimbusAI Dashboard](public/assets/kiro1.webp)
 *The NimbusAI infinite canvas with real-time architecture visualization*
