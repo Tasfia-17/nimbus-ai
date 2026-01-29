@@ -1,0 +1,15 @@
+steps:
+  - id: plan_architecture
+    prompt: 01_architecture_planner.md
+  - id: generate_diagram
+    prompt: 02_diagram_generator.md
+  - id: export_terraform
+    prompt: 03_terraform_engineer.md
+  - id: estimate_cost
+    prompt: 04_cost_analyst.md
+  - id: audit_security
+    prompt: 05_security_auditor.md
+  - id: explain_architecture
+    prompt: 06_architecture_explainer.md
+  - id: ui_design
+    prompt: 07_ui_layout_designer.md
