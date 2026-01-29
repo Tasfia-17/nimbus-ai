@@ -1,11 +1,11 @@
-# NimbusAI — Your AI Cloud Architect
+# NimbusAI - Your AI Cloud Architect
 
-NimbusAI is a Kiro-powered AI Cloud Architect that turns plain English ideas into visualized, auditable, and deployable AWS infrastructure — in seconds.
+NimbusAI is a Kiro-powered AI Cloud Architect that turns plain English ideas into visualized, auditable, and deployable AWS infrastructure in seconds.
 
 ![NimbusAI Dashboard](public/assets/kiro1.webp)
 *The NimbusAI infinite canvas with real-time architecture visualization*
 
-## 🎬 Demo Video
+##  Demo Video
 [Watch the NimbusAI Demo Recording](video/demo.webm)
 
 ##  Competition Edge
@@ -16,9 +16,9 @@ NimbusAI stands out with its **Design Engineering** approach and **Agentic Workf
 - **Security Auto-Remediation**: Generates fixes for architecture risks in real-time.
 
 ![Architecture Generation](public/assets/kiro2.webp)
-*Watch NimbusAI generate a complete architecture from a single prompt*
 
-## 🚀 Quick Start
+
+##  Quick Start
 
 ### Prerequisites
 - **Node.js 18+** and npm
@@ -51,7 +51,7 @@ NimbusAI stands out with its **Design Engineering** approach and **Agentic Workf
 4. **Open Application**
    Navigate to `http://localhost:3000`
 
-## 📖 API Documentation
+##  API Documentation
 
 ### Core Endpoints
 - **POST `/api/architecture/generate`** - Generate architecture from natural language prompt
@@ -68,7 +68,7 @@ NimbusAI stands out with its **Design Engineering** approach and **Agentic Workf
 - **Cost Analyst** - Real-time pricing with Reserved Instance recommendations
 - **Security Auditor** - NIST/CIS compliance validation with auto-remediation
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 - **Kiro CLI not found**: Ensure `kiro-cli` is installed and in PATH
@@ -91,7 +91,7 @@ kiro-cli chat "@01_architecture_planner"
 terraform validate ./generated/
 ```
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Basic Architecture Generation
 
@@ -132,7 +132,7 @@ Integrate your existing services:
    - **Twilio**: Account SID & Auth Token
    - **SendGrid**: API Key
 
-## 🧠 Kiro Integration
+##  Kiro Integration
 
 ### Custom Agents
 NimbusAI leverages 7 specialized Kiro agents plus breakthrough innovation features:
@@ -157,7 +157,7 @@ NimbusAI leverages 7 specialized Kiro agents plus breakthrough innovation featur
 - **UI Design**: Glassmorphism aesthetic principles
 - **Global Standards**: Code quality and testing requirements
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
@@ -168,7 +168,7 @@ NimbusAI leverages 7 specialized Kiro agents plus breakthrough innovation featur
 | **Infrastructure** | Terraform | Deterministic IaC generation |
 | **Testing** | Jest + React Testing Library | Comprehensive test coverage |
 
-## 🧪 Testing
+##  Testing
 
 Run the comprehensive test suite:
 
@@ -194,7 +194,7 @@ npm run test:watch
 - **Integration Tests**: API endpoints, workflow validation, and component interaction
 - **100% Test Pass Rate**: All 16 test suites passing
 
-## 🚀 Deployment
+##  Deployment
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for comprehensive production deployment instructions including:
 - Vercel, AWS Amplify, and self-hosted options
@@ -202,11 +202,11 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for comprehensive production deployment instr
 - Performance optimization and monitoring
 - Scaling considerations and troubleshooting
 
-## 📜 Development History
+##  Development History
 
 See [DEVLOG.md](DEVLOG.md) for a detailed 7-day breakdown of the project's evolution.
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
